@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "chicken-disease-classification-mlflow-dvc"
+REPO_NAME = "Chicken-Disease-Classification--Project"
 AUTHOR_USER_NAME = "Shubham-Tripathi-DS"
-SRC_REPO = "ChickenDiseaseClassifier"
+SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "tripathishubham960@gmail.com"
 
 
